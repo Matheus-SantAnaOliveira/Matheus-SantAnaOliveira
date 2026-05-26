@@ -37,13 +37,14 @@ Fora do trabalho: projeto pessoal de **telemetria em tempo real para o F1 25** c
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![Metricbeat](https://img.shields.io/badge/Metricbeat-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 **Infra & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
@@ -84,9 +85,9 @@ F1 25 (UDP)  →  .NET Worker  →  Elasticsearch  →  Kibana Dashboards
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-SantAnaOliveira&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Matheus-SantAnaOliveira&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-SantAnaOliveira&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-SantAnaOliveira&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" />
 
 </div>
 
