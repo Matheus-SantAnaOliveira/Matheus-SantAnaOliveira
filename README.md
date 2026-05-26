@@ -81,18 +81,6 @@ F1 25 (UDP)  →  .NET Worker  →  Elasticsearch  →  Kibana Dashboards
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Matheus-SantAnaOliveira&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-SantAnaOliveira&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" />
-
-</div>
-
----
-
 <div align="center">
 <sub>Backend Developer · Ciência da Computação @ USJT · São Paulo</sub>
 </div>
